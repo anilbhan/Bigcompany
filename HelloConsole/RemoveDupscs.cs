@@ -10,6 +10,7 @@
 //    {
 //        public static void Main()
 //        {
+//cool features.
 //            //define the variables with repeated string;
 
 //            string Value1 = RemoveDuplicate("Yahoo");
