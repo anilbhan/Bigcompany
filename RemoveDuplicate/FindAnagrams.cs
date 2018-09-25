@@ -48,3 +48,14 @@ namespace RemoveDuplicate
             }
         }
     }
+
+
+
+/* 
+
+ 1. Convert both strings to character arrays.
+2. Sort the character arrays in ascending/descending order, but use the same ordering on both of the character sets.
+3. Create two strings out of the two sorted character set arrays.
+4. Compare the strings.
+5. If they are not equal, they are not Anagrams.   
+    */
